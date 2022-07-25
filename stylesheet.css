@@ -14,6 +14,7 @@
         
         .header{
             background-image: url("background.jpg");
+            background-repeat: no-repeat;
         }
         
         .facePict{
@@ -133,6 +134,7 @@
             display: inline-block;
         }
 
-        .menuDiv,.footer{
-            background-image:grey url(background.jpg) ;
+        .header, .body{
+            background-image:url(images/background.jpg);
+            background-repeat:repeat-x;
         }
