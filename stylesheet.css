@@ -96,6 +96,10 @@
             display: inline-block;
             width:25%;
         }
+
+        .soloPic{
+            margin: 0%;
+        }
         
         
         
@@ -127,4 +131,8 @@
         }
         .phoneNumber{
             display: inline-block;
+        }
+
+        .menuDiv,.footer{
+            background-image:grey url(background.jpg) ;
         }
