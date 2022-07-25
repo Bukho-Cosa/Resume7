@@ -99,7 +99,9 @@
         }
 
         .soloPic{
-            margin: 0%;
+            align-content: center;
+            justify-content: center;
+            margin: 2rem;
         }
         
         
