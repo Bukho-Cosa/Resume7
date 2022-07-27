@@ -65,15 +65,19 @@
         }
         .educationMenu{
             padding: 1rem;
+            text-decoration: none;
         }
         .experienceMenu{
-            padding: 1rem; 
+            padding: 1rem;
+            text-decoration: none; 
         }
         .skillsMenu{
             padding: 1rem;
+            text-decoration: none;
         }
         .contactsMenu{
             padding: 1rem;
+            text-decoration: none;
         }
 
         
@@ -101,6 +105,7 @@
         .soloPic{
             align-content: center;
             justify-content: center;
+            object-fit: contain;
             margin: 2rem;
         }
         
